@@ -1,4 +1,4 @@
-![profile-image](https://github.com/MarckWeb/proyect-travels/blob/master/img/git-profile.png)
+![profile-image|300|100](https://github.com/MarckWeb/proyect-travels/blob/master/img/git-profile.png)
 
 
 <!--
