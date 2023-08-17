@@ -7,9 +7,9 @@ Passionate about web development with experience in own projects I love the deve
 
 ### Technical skills:
 - Languages: JavaScript (ES6+)
-- Front-end: React.js, HTML, CSS (Sass)
+- Front-end: React.js, HTML, CSS, Sass
 - Back-end: Node.js, Express.js, Nest.js
-- Databases: MongoDB, noSQL
+- Databases: MongoDB, noSQL, MySQL
 - Tools: Git.
 
 ### Links:
