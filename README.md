@@ -1,7 +1,7 @@
 
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy David, un apasionado desarrollador de software.
+¡Hola! Soy David, un apasionado desarrollador web full stack.
 
 ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 
