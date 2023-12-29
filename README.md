@@ -32,6 +32,9 @@
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
+## Visualizaciones de Datos
+![Porcentaje de Completitud del Perfil](https://img.shields.io/badge/Perfil%20Completo-75%25-brightgreen)
+
 ## Estado Actual
 - 🛠 Trabajando en un proyecto de e-commerce con React y Node.js.
 - 📚 Aprendiendo sobre machine learning y Python.
