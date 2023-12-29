@@ -28,7 +28,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
 ## Estadísticas GitHub
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
 ## Wallpaper
 ![Wallpaper](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
