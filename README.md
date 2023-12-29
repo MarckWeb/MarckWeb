@@ -32,9 +32,14 @@
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
-## Wallpaper
-https://www.linkedin.com/in/david-marca/overlay/background-image/
-![Wallpaper](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
+## Estado Actual
+- 🛠 Trabajando en un proyecto de e-commerce con React y Node.js.
+- 📚 Aprendiendo sobre machine learning y Python.
+
+## Visualizaciones de Datos
+Puedes agregar gráficos o visualizaciones utilizando servicios como [Shields.io](https://shields.io/) para crear distintivos personalizados o enlazar a imágenes de gráficos que hayas creado.
+
+---
 
 ---
 
