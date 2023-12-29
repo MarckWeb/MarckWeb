@@ -37,12 +37,6 @@
 
 ## Estado Actual
 - 🛠 Trabajando en un proyecto de e-commerce con React y Node.js.
-- 📚 Aprendiendo sobre machine learning y Python.
-
-## Visualizaciones de Datos
-Puedes agregar gráficos o visualizaciones utilizando servicios como [Shields.io](https://shields.io/) para crear distintivos personalizados o enlazar a imágenes de gráficos que hayas creado.
-
----
 
 ---
 
