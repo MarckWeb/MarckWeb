@@ -30,8 +30,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
 ## Proyectos destacados
-- [Proyecto 1](https://front-gcdr.onrender.com/)
-- [Proyecto 2](https://client-h3s3.onrender.com/)
+- [Grupos de Chat](https://front-gcdr.onrender.com/)
+- [Página web consecioanrio](https://client-h3s3.onrender.com/)
 
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
