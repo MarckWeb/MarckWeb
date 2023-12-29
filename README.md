@@ -3,8 +3,7 @@
 
 ¡Hola! Soy David, un apasionado desarrollador de software.
 
-## Wallpaper
-![Wallpaper](https://www.linkedin.com/in/david-marca/overlay/background-image/)
+![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 
 ## Acerca de mí
 - 🌐 Desarrollador web y entusiasta de la tecnología.
