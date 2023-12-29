@@ -3,6 +3,9 @@
 
 ¡Hola! Soy David, un apasionado desarrollador de software.
 
+## Wallpaper
+![Wallpaper](https://www.linkedin.com/in/david-marca/overlay/background-image/)
+
 ## Acerca de mí
 - 🌐 Desarrollador web y entusiasta de la tecnología.
 - 🚀 Actualmente buscando oportunidades laborales y sigo formandome y practicando en proyectos propios como desarrollador web.
@@ -31,6 +34,7 @@
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
 ## Wallpaper
+https://www.linkedin.com/in/david-marca/overlay/background-image/
 ![Wallpaper](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
 
 ---
