@@ -1,4 +1,4 @@
-![imagen](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
+
 
 # Bienvenido a mi perfil de GitHub 👋
 
@@ -28,15 +28,14 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
-### Technical skills:
-- Languages: JavaScript (ES6+)
-- Front-end: React.js, HTML, CSS, Sass
-- Back-end: Node.js, Express.js, Nest.js
-- Databases: MongoDB, noSQL, MySQL
-- Tools: Git.
+## Estadísticas GitHub
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
-### Links:
-- [LinkedIn](https://www.linkedin.com/in/david-marca/)
-- [Instagram](https://www.instagram.com/invites/contact/?i=m35vdth2nmjg&utm_content=q5hru24)
+## Wallpaper
+![Wallpaper](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
+
+---
+
+⭐️ ¡Gracias por visitar mi perfil!
 
 ¡Siempre abierto a nuevas oportunidades y aprendizajes! 🚀
