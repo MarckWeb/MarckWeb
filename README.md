@@ -1,12 +1,11 @@
 
-
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software.
+¡Hola! Soy David, un apasionado desarrollador de software.
 
 ## Acerca de mí
 - 🌐 Desarrollador web y entusiasta de la tecnología.
-- 🚀 Actualmente realizando y practicando en proyectos propios como desarrollador web.
+- 🚀 Actualmente buscando oportunidades laborales y sigo formandome y practicando en proyectos propios como desarrollador web.
 
 ## Lenguajes y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
