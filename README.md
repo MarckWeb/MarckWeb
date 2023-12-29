@@ -32,6 +32,10 @@
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
+![Proyectos](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+![Commits](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+
 ## Visualizaciones de Datos
 ![Porcentaje de Completitud del Perfil](https://img.shields.io/badge/Perfil%20Completo-75%25-brightgreen)
 
