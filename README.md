@@ -1,10 +1,12 @@
 ![imagen](https://github.com/MarckWeb/world-travel-JS/blob/master/img/Imagen7.png)
 
-## Hi, I'm a full stack developer. 💻
+# Bienvenido a mi perfil de GitHub 👋
 
-### About me:
-Passionate about web development with experience in own projects I love the development of highly efficient and attractive web applications, with a focus on usability and user experience.
+¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software.
 
+## Acerca de mí
+- 🌐 Desarrollador web y entusiasta de la tecnología.
+- 🚀 Actualmente realizando y practicando en proyectos propios como desarrollador web.
 
 ## Lenguajes y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,7 +21,6 @@ Passionate about web development with experience in own projects I love the deve
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
-
 
 
 ## Redes Sociales
