@@ -7,7 +7,7 @@
 
 ## Acerca de mí
 - 🌐 Desarrollador web y entusiasta de la tecnología.
-- 🚀 Actualmente buscando oportunidades laborales y sigo formandome y practicando en proyectos propios como desarrollador web.
+- 🚀 Actualmente trabajando en proyectos propios como desarrollador web.
 
 ## Lenguajes y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
