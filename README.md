@@ -1,13 +1,22 @@
 
-# Bienvenido a mi perfil de GitHub 👋
+# Welcome to my GitHub profile 👋
 
-¡Hola! Soy David, un apasionado desarrollador web full stack.
+Hello! I'm David, a passionate full stack web developer.
 
-![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
+## About me
 
-## Acerca de mí
-- 🌐 Desarrollador web y entusiasta de la tecnología.
-- 🚀 Actualmente trabajando en proyectos propios como desarrollador web.
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+    <div style="flex: 1;">
+        <li>- 💻 I love coding</li>
+        <li>- 🌐 Web developer and technology enthusiast.</li>
+        <li>- 🚀 Currently working on my own projects as a web developer.</li>
+        <li>- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.</li>
+    </div>
+    <div style="flex: 1; margin-left: 20px;">
+        <!-- Tu imagen aquí -->
+        <img src="enlace_a_tu_imagen.jpg" alt="Tu Nombre" width="150" height="150">
+    </div>
+</div>
 
 ## Lenguajes y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,6 +45,7 @@
 ## Estadísticas GitHub
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
+![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 
 
 ## Visualizaciones de Datos
