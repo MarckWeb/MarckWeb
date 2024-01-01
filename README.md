@@ -6,13 +6,13 @@ Hello! I'm David, a passionate full stack web developer.
 ## About me
 
 <div align="center" style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
-    <div style="flex: 1;">
+    <div >
         <li>- 💻 I love coding</li>
         <li>- 🌐 Web developer and technology enthusiast.</li>
         <li>- 🚀 Currently working on my own projects as a web developer.</li>
         <li>- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.</li>
     </div>
-    <div style="flex: 1; margin-left: 20px;">
+    <div >
         <!-- Tu imagen aquí -->
         <img src="enlace_a_tu_imagen.jpg" alt="Tu Nombre" width="150" height="150">
     </div>
