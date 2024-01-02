@@ -2,7 +2,7 @@
 # Welcome to my GitHub profile 👋
 
 Hello! I'm David, a passionate full stack web developer.
----
+
 ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 ---
 
