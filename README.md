@@ -2,23 +2,16 @@
 # Welcome to my GitHub profile 👋
 
 Hello! I'm David, a passionate full stack web developer.
+![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 
 ## About me
+- 💻 I love coding
+- 🌐 Web developer and technology enthusiast.
+- 🚀 Currently working on my own projects as a web developer.
+- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
-    <div >
-        <li>- 💻 I love coding</li>
-        <li>- 🌐 Web developer and technology enthusiast.</li>
-        <li>- 🚀 Currently working on my own projects as a web developer.</li>
-        <li>- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.</li>
-    </div>
-    <div >
-        <!-- Tu imagen aquí -->
-        <img src="enlace_a_tu_imagen.jpg" alt="Tu Nombre" width="150" height="150">
-    </div>
-</div>
 
-## Lenguajes y herramientas
+## Languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -33,29 +26,29 @@ Hello! I'm David, a passionate full stack web developer.
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Redes Sociales
+## social networks
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TuUsuario)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
-## Proyectos destacados
+## Featured projects
 - [Grupos de Chat](https://front-gcdr.onrender.com/)
 - [Página web consecioanrio](https://client-h3s3.onrender.com/)
 
-## Estadísticas GitHub
+## GitHub Statistics
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
-![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 
 
-## Visualizaciones de Datos
+
+## Data Visualizations
 ![Porcentaje de Completitud del Perfil](https://img.shields.io/badge/Perfil%20Completo-75%25-brightgreen)
 
-## Estado Actual
-- 🛠 Trabajando en un proyecto de e-commerce con React y Node.js.
+## Actual state
+- 🛠 Trabajando en un proyectos propios con React y Node.js.
 
 ---
 
-⭐️ ¡Gracias por visitar mi perfil!
+⭐️ Thank you for visiting my profile!
 
-¡Siempre abierto a nuevas oportunidades y aprendizajes! 🚀
+Always open to new opportunities and learning! 🚀
