@@ -55,9 +55,14 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  [![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)]
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
+
+### To see more projects 
+In my portfolio you can see more projects of all kinds from my training to today
+[![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/)
+
 
 ## GitHub Statistics
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
