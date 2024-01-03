@@ -1,11 +1,11 @@
 ### Welcome to my GitHub profile 👋
 
-<div style="text-align:center;" >
-  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px;">
-  <span style="margin-left: 20px;padding-bottom:100px;">
+
+  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px; text-aling:center;">
+  <p style="margin-left: 20px;padding-bottom:100px; text-aling:center;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
-  </span>
-</div>
+  </p>
+
 
 ## About me
 - 💻 I love coding
