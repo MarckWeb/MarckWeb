@@ -35,7 +35,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ### Chat Group
 - **Fecha:** [Octubre 2023] - [Diciembre 2023]
 - **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
- [Grupos de Chat](https://front-gcdr.onrender.com/)
+ [Link-Chat-Group](https://front-gcdr.onrender.com/)
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -46,8 +46,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ### Consecionary Website
 - **Fecha:** [junio 2023] - [julio 2023]
 - **Descripción:** This fullstack project is a platform that offers an exceptional user experience and allows users to create profiles. Designed as a dealership simulation, it provides a glimpse of what a dealership could offer. Users can explore a wide range of purchasing options and enjoy an immersive and engaging user experience.
-  
-  [Página web consecioanrio](https://client-h3s3.onrender.com/)
+  [Link-Consecionary-Website](https://client-h3s3.onrender.com/)
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
