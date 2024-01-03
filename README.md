@@ -7,6 +7,9 @@
   </span>
 </div>
 ---
+
+![Tu Foto](https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png) **Hello** 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
+
 # Welcome to my GitHub profile 👋
 
 
