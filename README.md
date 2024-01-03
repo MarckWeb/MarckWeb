@@ -1,16 +1,17 @@
-### Welcome to my GitHub profile, for me cv2.0 👋
+## Welcome to my GitHub profile, for me cv2.0 👋
 
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px; text-aling:left;">
   <p style="margin-left: 20px;padding-bottom:100px; text-aling:center;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </p>
-### About me
+  
+## About me
+
 - 💻 I love coding
 - 🌐 Web developer and technology enthusiast.
 - 🚀 Currently working on my own projects as a web developer.
 - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
 
----
 ## Languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
