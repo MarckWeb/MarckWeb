@@ -1,4 +1,4 @@
-# Mi Perfil
+# Welcome to my GitHub profile 👋
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px;">
@@ -6,16 +6,6 @@
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </span>
 </div>
----
-
-![Tu Foto](https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png) **Hello** 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
-
-# Welcome to my GitHub profile 👋
-
-
-
-![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
----
 
 ## About me
 - 💻 I love coding
@@ -65,3 +55,6 @@
 ⭐️ Thank you for visiting my profile!
 
 Always open to new opportunities and learning! 🚀
+
+![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
+---
