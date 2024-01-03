@@ -31,8 +31,9 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## FULL STACK PROJECTS [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/)
+## FULL STACK PROJECTS 
 ### Chat Group
+[![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/)
 - **Fecha:** [Octubre 2023] - [Diciembre 2023]
 - **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
 - **Herramientas utilizadas:**
@@ -42,7 +43,8 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
-### Consecionary Website [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/)
+### Consecionary Website 
+[![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/)
 - **Fecha:** [junio 2023] - [julio 2023]
 - **Descripción:** This fullstack project is a platform that offers an exceptional user experience and allows users to create profiles. Designed as a dealership simulation, it provides a glimpse of what a dealership could offer. Users can explore a wide range of purchasing options and enjoy an immersive and engaging user experience.
 - **Herramientas utilizadas:**
