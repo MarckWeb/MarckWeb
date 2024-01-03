@@ -33,7 +33,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 
 ## FULL STACK PROJECTS 
 ### Chat Group
->> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) >>
+>> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Fecha:** Octubre 2023 || Diciembre 2023
 - **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
 - **Herramientas utilizadas:**
@@ -46,7 +46,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
 
 ### Consecionary Website 
->> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) >>
+>> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
 - **Fecha:** Junio 2023 || Julio 2023
 - **Descripción:** This fullstack project is a platform that offers an exceptional user experience and allows users to create profiles. Designed as a dealership simulation, it provides a glimpse of what a dealership could offer. Users can explore a wide range of purchasing options and enjoy an immersive and engaging user experience.
 - **Herramientas utilizadas:**
@@ -60,7 +60,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 
 ### To see more projects 
 In my portfolio you can see more projects of all kinds from my training to today
- >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) >>
+ >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) 📂
 
 ## GitHub Statistics
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
