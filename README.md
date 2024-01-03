@@ -4,10 +4,10 @@
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 200px; height: 220px;">
   <span style="margin-left: 50px; margin-botton:50px;">
     Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
-    - 💻 I love coding
-- 🌐 Web developer and technology enthusiast.
-- 🚀 Currently working on my own projects as a web developer.
-- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
+    <li> - 💻 I love coding</li> 
+    <li> - 🌐 Web developer and technology enthusiast.</li>
+    <li> - 🚀 Currently working on my own projects as a web developer.</li>
+    <li> - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.</li>
   </span>
 </div>
 
