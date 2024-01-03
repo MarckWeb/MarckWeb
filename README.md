@@ -31,19 +31,22 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-### Proyecto 1
-- **Fecha:** [Fecha de Inicio] - [Fecha de Finalización]
-- **Descripción:** Breve descripción del proyecto y tus responsabilidades.
+### Chat Group
+- **Fecha:** [Octubre 2023] - [Diciembre 2023]
+- **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
 - **Herramientas utilizadas:**
   [![Herramienta1](enlace_a_logo_herramienta1)](enlace_a_documentacion_herramienta1)
   [![Herramienta2](enlace_a_logo_herramienta2)](enlace_a_documentacion_herramienta2)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
 ### Proyecto 2
 - **Fecha:** [Fecha de Inicio] - [Fecha de Finalización]
 - **Descripción:** Breve descripción del proyecto y tus responsabilidades.
 - **Herramientas utilizadas:**
-  [![Herramienta1](enlace_a_logo_herramienta1)](enlace_a_documentacion_herramienta1)
-  [![Herr
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## Featured projects
 - [Grupos de Chat](https://front-gcdr.onrender.com/)
