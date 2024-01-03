@@ -58,8 +58,8 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
-### To see more projects 
-In my portfolio you can see more projects of all kinds from my training to today
+### Experience
+In my portfolio you can see more projects of all kinds from my training to today that reflect my experience
  >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) 📂
 
 ## GitHub Statistics
