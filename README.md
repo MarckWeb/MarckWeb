@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/dvd.jpg" alt="Tu Foto" style="width: 100px; height: 100px; border-radius: 50%;">
+  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/dvdd.png" alt="Tu Foto" style="width: 100px; height: 100px; border-radius: 50%;">
   <div style="margin-left: 20px;">
   
   # Sobre Mí
