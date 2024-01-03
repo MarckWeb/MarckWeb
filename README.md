@@ -1,13 +1,11 @@
 # Mi Perfil
 
-
-<div style="align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px;">
-  <span style="margin-left: 50px; margin-botton: 80px;">
+  <span style="margin-left: 20px;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </span>
 </div>
-
 ---
 # Welcome to my GitHub profile 👋
 
