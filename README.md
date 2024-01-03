@@ -34,6 +34,20 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
+### Proyecto 1
+- **Fecha:** [Fecha de Inicio] - [Fecha de Finalización]
+- **Descripción:** Breve descripción del proyecto y tus responsabilidades.
+- **Herramientas utilizadas:**
+  [![Herramienta1](enlace_a_logo_herramienta1)](enlace_a_documentacion_herramienta1)
+  [![Herramienta2](enlace_a_logo_herramienta2)](enlace_a_documentacion_herramienta2)
+
+### Proyecto 2
+- **Fecha:** [Fecha de Inicio] - [Fecha de Finalización]
+- **Descripción:** Breve descripción del proyecto y tus responsabilidades.
+- **Herramientas utilizadas:**
+  [![Herramienta1](enlace_a_logo_herramienta1)](enlace_a_documentacion_herramienta1)
+  [![Herr
+
 ## Featured projects
 - [Grupos de Chat](https://front-gcdr.onrender.com/)
 - [Página web consecioanrio](https://client-h3s3.onrender.com/)
