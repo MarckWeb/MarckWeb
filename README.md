@@ -2,7 +2,7 @@
 
 <div style="align-items: center;">
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 200px; height: 220px;">
-  <span style="margin-left: 50px;">
+  <span style="margin-left: 50px; margin-botton:50px;">
     Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
   </span>
 </div>
