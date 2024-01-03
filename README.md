@@ -1,5 +1,5 @@
-## Welcome to my GitHub profile, for me cv2.0 👋
-  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px; text-aling:left;">
+## Welcome to my GitHub profile 👋
+  ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/dvd.png)
   
 ## About me
 Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
