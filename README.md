@@ -2,7 +2,12 @@
 
 # Mi Perfil
 
-| ![Tu Foto](https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png) | Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos. <br><br> - 💻 I love coding <br> - 🌐 Web developer and technology enthusiast. <br> - 🚀 Currently working on my own projects as a web developer. <br> - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn. |
+| ![Tu Foto](https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png) | Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
+<br><br> 
+- 💻 I love coding 
+- - 🌐 Web developer and technology enthusiast.
+  - - 🚀 Currently working on my own projects as a web developer.
+    - - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn. |
 | --- | --- |
 
 <div style="align-items: center;">
