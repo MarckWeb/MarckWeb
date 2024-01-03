@@ -6,6 +6,8 @@
     Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
   </span>
 </div>
+
+---
 # Welcome to my GitHub profile 👋
 
 Hello! I'm David, a passionate full stack web developer.
