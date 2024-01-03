@@ -42,6 +42,9 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
+  [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
+  [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
+
 
 ### Consecionary Website 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/)
@@ -52,6 +55,8 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  [![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)]
+  [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
 ## GitHub Statistics
