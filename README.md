@@ -9,7 +9,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
 
 - <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block; margin-right: 10px;">
-  [Herramienta1](enlace_a_documentacion_herramienta1)
+  [JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 </div>
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block;">
