@@ -1,7 +1,6 @@
-### Welcome to my GitHub profile 👋
+### Welcome to my GitHub profile, for me cv2.0 👋
 
-
-  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px; text-aling:center;">
+  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px; text-aling:left;">
   <p style="margin-left: 20px;padding-bottom:100px; text-aling:center;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </p>
