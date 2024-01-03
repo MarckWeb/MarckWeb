@@ -58,15 +58,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
 
-
-## Data Visualizations
-![Porcentaje de Completitud del Perfil](https://img.shields.io/badge/Perfil%20Completo-75%25-brightgreen)
-
-## Actual state
-- 🛠 Trabajando en un proyectos propios con React y Node.js.
-
----
-
 ⭐️ Thank you for visiting my profile!
 
 Always open to new opportunities and learning! 🚀
+---
