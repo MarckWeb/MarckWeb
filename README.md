@@ -4,7 +4,7 @@
   <p style="margin-left: 20px;padding-bottom:100px; text-aling:center;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </p>
-#### About me
+### About me
 - 💻 I love coding
 - 🌐 Web developer and technology enthusiast.
 - 🚀 Currently working on my own projects as a web developer.
