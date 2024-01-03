@@ -1,30 +1,17 @@
 # Mi Perfil
 
-# Mi Perfil
-
-| ![Tu Foto](https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png) | Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
-<br><br> 
-- 💻 I love coding 
-- - 🌐 Web developer and technology enthusiast.
-  - - 🚀 Currently working on my own projects as a web developer.
-    - - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn. |
-| --- | --- |
 
 <div style="align-items: center;">
-  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 200px; height: 220px;">
+  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px;">
   <span style="margin-left: 50px; margin-botton:50px;">
-    Soy David, un apasionado de la programación y la tecnología. Mi objetivo es desarrollar soluciones creativas y eficientes para los desafíos informáticos.
-    <li> - 💻 I love coding</li> 
-    <li> - 🌐 Web developer and technology enthusiast.</li>
-    <li> - 🚀 Currently working on my own projects as a web developer.</li>
-    <li> - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.</li>
+    Hello! I'm David, a passionate full stack web developer.
   </span>
 </div>
 
 ---
 # Welcome to my GitHub profile 👋
 
-Hello! I'm David, a passionate full stack web developer.
+
 
 ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
 ---
