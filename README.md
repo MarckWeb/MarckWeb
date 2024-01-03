@@ -35,8 +35,9 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ### Chat Group
 - **Fecha:** [Octubre 2023] - [Diciembre 2023]
 - **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
+ [Grupos de Chat](https://front-gcdr.onrender.com/)
 - **Herramientas utilizadas:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+  ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -45,18 +46,18 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ### Consecionary Website
 - **Fecha:** [junio 2023] - [julio 2023]
 - **Descripción:** This fullstack project is a platform that offers an exceptional user experience and allows users to create profiles. Designed as a dealership simulation, it provides a glimpse of what a dealership could offer. Users can explore a wide range of purchasing options and enjoy an immersive and engaging user experience.
+  
+  [Página web consecioanrio](https://client-h3s3.onrender.com/)
 - **Herramientas utilizadas:**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-## Featured projects
-- [Grupos de Chat](https://front-gcdr.onrender.com/)
-- [Página web consecioanrio](https://client-h3s3.onrender.com/)
+  ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
 ## GitHub Statistics
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
-
 
 
 ## Data Visualizations
@@ -70,6 +71,3 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ⭐️ Thank you for visiting my profile!
 
 Always open to new opportunities and learning! 🚀
-
-![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1701291885167.jpg)
----
