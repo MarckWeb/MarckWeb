@@ -1,6 +1,6 @@
 # Mi Perfil
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex: row; align-items: center;">
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 100px; height: 100px; border-radius: 50%;">
   <div style="margin-left: 20px;">
     <h2>Sobre Mí</h2>
