@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/public/link.png" alt="Tu Foto" style="width: 150px; height: 160px;">
-  <span style="margin-left: 20px;">
+  <span style="margin-left: 20px; padding-bottom:100px;">
     Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
   </span>
 </div>
