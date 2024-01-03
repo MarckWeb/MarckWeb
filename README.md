@@ -8,13 +8,12 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 - 🚀 Currently working on my own projects as a web developer.
 - 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
 
-- <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block; margin-right: 10px;">
-  [JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-</div>
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block;">
-  [Herramienta2](enlace_a_documentacion_herramienta2)
-</div>
 
 ## Languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,10 +30,6 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## social networks
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TuUsuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/TuUsuario)
 
 ### Proyecto 1
 - **Fecha:** [Fecha de Inicio] - [Fecha de Finalización]
