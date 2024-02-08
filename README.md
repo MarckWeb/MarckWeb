@@ -22,6 +22,10 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 #### BACKEND
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
+#### DATA BASE
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,atlas,mariadb)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
