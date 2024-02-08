@@ -16,6 +16,9 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 
 
 ## TECH STACK
+#### FRONTEND
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,vite,md,wordpress)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,nestjs,git,github,mysql,)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
