@@ -34,7 +34,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
 
