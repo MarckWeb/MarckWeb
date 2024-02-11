@@ -16,7 +16,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 
 
 ## TECH STACK
-#### FRONTEND
+<!--#### FRONTEND
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,)](https://skillicons.dev)
 
 #### BACKEND
@@ -26,7 +26,7 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,atlas,mariadb)](https://skillicons.dev)
 
 #### OTHER
-[![My Skills](https://skillicons.dev/icons?i=git,github,vite,md,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,md,vscode,wordpress)](https://skillicons.dev)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
