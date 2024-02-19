@@ -1,5 +1,5 @@
 ## WELCOME TO MY GITHUB PROFILE👋
-  ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/1.png)
+  ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/2.png)
   
 ## ABOUT ME
 Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
