@@ -1,4 +1,4 @@
-## BIENVENIDO A MI PERFIL DE GITHUB👋
+## BIENVENIDO A MI CV 2.0👋
   ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/2.png)
   
 ## ACERCA DE MI
@@ -32,7 +32,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
-## FULL STACK PROJECTS 
+## PROYECTOS
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Fecha:** Octubre 2023 || Diciembre 2023
