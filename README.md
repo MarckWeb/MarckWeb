@@ -2,18 +2,13 @@
   ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/2.png)
   
 ## ABOUT ME
-Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️🌐🚀✨.
-- 💻 I love coding
-- 🌐 Web developer and technology enthusiast.
-- 🚀 Currently working on my own projects as a web developer.
-- 🧑‍💻 Exploring new possibilities and always interested in challenging environments where I can contribute and learn.
-
-## CONTACT
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
-
+¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web Junior full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
+aplicar mis conocimientos y habilidades en entornos grupales reales. Aspiro a expandir mis conocimientos en tecnologías y lenguajes de programación que
+contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran envergadura.🖥️🌐🚀✨.
+- 💻 Me encanta solucionar problemas de codigo.
+- 🌐 Me encanta sumergirme en desafíos intensos mientras desarrollo, ya que encuentro una profunda satisfacción en superar obstáculos complejos y resolver problemas técnicos.
+- 🚀 Actualmente trabajando en proyectos propios como desarrollador web.
+- 🧑‍💻 Explorando nuevas posibilidades y siempre interesado en entornos desafiantes donde pueda contribuir y aprender.
 
 ## TECH STACK
 <!--#### FRONTEND
@@ -74,14 +69,22 @@ Hello 👋! I'm David 👨‍💻, a passionate full stack web developer 🖥️
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
-### Experience
+### Experiencia
 In my portfolio you can see more projects of all kinds from my training to today that reflect my experience
  >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) 📂
 
-## GitHub Statistics
+## GitHub Estadisticas
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
 
-⭐️ Thank you for visiting my profile!
+## CONTACTAME
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/david-marca)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tuusuario)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)--/>
+⭐️ Gracias por visitar mi perfil de github!
 
-Always open to new opportunities and learning! 🚀
+Abierto a nuevas oportunidades de trabajo! 🚀
