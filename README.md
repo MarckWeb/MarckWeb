@@ -1,7 +1,7 @@
-## WELCOME TO MY GITHUB PROFILE👋
+## BIENVENIDO A MI PERFIL DE GITHUB👋
   ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/2.png)
   
-## ABOUT ME
+## ACERCA DE MI
 ¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web Junior full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
 aplicar mis conocimientos y habilidades en entornos grupales reales. Aspiro a expandir mis conocimientos en tecnologías y lenguajes de programación que
 contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran envergadura.🖥️🌐🚀✨.
@@ -78,9 +78,9 @@ In my portfolio you can see more projects of all kinds from my training to today
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
 
 ## CONTACTAME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/david-marca)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/david-marca])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
