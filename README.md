@@ -10,18 +10,13 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 - 🚀 Actualmente trabajando en proyectos propios como desarrollador web.
 - 🧑‍💻 Explorando nuevas posibilidades y siempre interesado en entornos desafiantes donde pueda contribuir y aprender.
 
-## TECH STACK
-<!--#### FRONTEND
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,)](https://skillicons.dev)
+## HABILIDADES Y TECNOLOGIAS
 
-#### BACKEND
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-#### DATA BASE
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,atlas,mariadb)](https://skillicons.dev)
-
-#### OTHER
-[![My Skills](https://skillicons.dev/icons?i=git,github,vite,md,vscode,wordpress)](https://skillicons.dev)-->
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -46,7 +41,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Fecha:** Octubre 2023 || Diciembre 2023
-- **Descripción:** This Chat Group app is a fullstack platform that redefines online social interaction. It allows users to create and customize their own topic channels, edit profiles to express their individuality, and participate in dynamic conversations. From exchanging messages and multimedia files to expressing emotions with custom emojis.
+- **Descripción:** Esta aplicación Chat Group es una plataforma completa que redefine la interacción social en línea (Clon de Discord). Permite a los usuarios crear y personalizar sus propios canales temáticos, editar perfiles para expresar su individualidad y participar en conversaciones dinámicas. Desde intercambiar mensajes y archivos multimedia hasta expresar emociones con emojis personalizados.
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -59,7 +54,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ### Consecionary Website 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
 - **Fecha:** Junio 2023 || Julio 2023
-- **Descripción:** This fullstack project is a platform that offers an exceptional user experience and allows users to create profiles. Designed as a dealership simulation, it provides a glimpse of what a dealership could offer. Users can explore a wide range of purchasing options and enjoy an immersive and engaging user experience.
+- **Descripción:** Este proyecto es una plataforma que ofrece una experiencia de usuario excepcional, donde se muestra varios tipos de vehiculos para elegir, acceder a sus perfiles, comentar en el blog y mas. Diseñado como una simulación de concesionario, ofrece una idea de lo que un concesionario podría ofrecer. Los usuarios pueden explorar una amplia gama de opciones de compra y disfrutar de una experiencia de usuario inmersiva y atractiva.
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -70,7 +65,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
 ### Experiencia
-In my portfolio you can see more projects of all kinds from my training to today that reflect my experience
+En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta la actualidad que reflejan mi experiencia
  >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) 📂
 
 ## GitHub Estadisticas
