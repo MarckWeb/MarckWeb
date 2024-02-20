@@ -34,18 +34,19 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 ## EXPERIENCIA Y PROYECTOS
 
-  Durante mi participación en el proyecto Chat Group, contribuí al desarrollo de una plataforma de interacción social en línea, inspirada en Discord. En este proyecto, mi enfoque se centró en mejorar la experiencia del usuario mediante el diseño y la implementación de diversas características. Algunas de las áreas en las que trabajé incluyen:
-
-- **Personalización de Perfiles:** Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados, biografías y enlaces a redes sociales.
-
-- **Diseño de Canales Temáticos:** Colaboré en la creación de un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
-
-- **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
+  
 
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
-- **Descripción:** Durante este proyecto, contribuí al desarrollo de una aplicación de Chat Group que ofrece una experiencia completa de interacción social en línea, inspirada en Discord. Mi labor consistió en crear una plataforma que permitiera a los usuarios no solo comunicarse, sino también personalizar sus propios canales temáticos y expresar su individualidad a través de perfiles personalizados. Además, facilité la dinámica de conversaciones mediante el intercambio de mensajes y archivos multimedia, así como la inclusión de emoticones personalizados para expresar emociones de manera más vívida.
+- **Descripción:** Durante mi participación en el proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:
+
+- **Personalización de Perfiles:** Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados.
+
+- **Diseño de Canales Temáticos:** desarrolle un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
+
+- **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
+- 
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
