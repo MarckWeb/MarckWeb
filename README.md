@@ -36,6 +36,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 ### Chat Group
 ![Captura de Pantalla ](https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png)
+<img src="https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png" alt="Captura de Pantalla" width="300" height="200">
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
