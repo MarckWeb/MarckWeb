@@ -46,7 +46,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 - **Diseño de Canales Temáticos:** desarrolle un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
 
 - **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
-- 
+  
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -55,7 +55,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Consecionary Website 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
 - **Fecha:** Junio 2023 || Julio 2023
