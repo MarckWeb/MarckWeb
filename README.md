@@ -35,9 +35,8 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ## EXPERIENCIA Y PROYECTOS
 
 ### Chat Group
-![Captura de Pantalla ](https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png)
-<img src="https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png" alt="Captura de Pantalla" width="300" height="200">
-
+<div style='display:flex;'>
+<div>
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 - **Descripción:** Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:
@@ -49,6 +48,16 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 - **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
 - 
 - **Seguridad Avanzada:** Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.
+  
+</div>
+<div>
+  <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png" alt="Captura de Pantalla" width="300" height="200">
+
+</div>
+  
+</div>
+
+
   
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
