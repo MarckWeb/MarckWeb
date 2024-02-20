@@ -36,26 +36,44 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 ### Chat Group
 <div style='display:flex;'>
+  <div>
+    <a href="https://front-gcdr.onrender.com/">
+      <img src="https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white" alt="Demo" />
+    </a>
+    <p>Periodo de Trabajo: Octubre 2023 || Diciembre 2023</p>
+    <p>Descripción: Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:</p>
+    <ul>
+      <li>Personalización de Perfiles: Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados.</li>
+      <li>Diseño de Canales Temáticos: Desarrollé un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.</li>
+      <li>Mejora de la Experiencia de Mensajería: Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.</li>
+      <li>Seguridad Avanzada: Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png" alt="Captura de Pantalla" width="300" height="200">
+  </div>
+</div>
+<!--<div style='display:flex;'>
 <div>
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 - **Descripción:** Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:
-
+<!--
 - **Personalización de Perfiles:** Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados.
-
+<!--
 - **Diseño de Canales Temáticos:** desarrolle un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
-
+<!--
 - **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
 - 
 - **Seguridad Avanzada:** Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.
-  
+  <!--
 </div>
 <div>
   <img src="https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png" alt="Captura de Pantalla" width="300" height="200">
-
+<!--
 </div>
-  
-</div>
+  <!--
+</div>-->
 
 
   
