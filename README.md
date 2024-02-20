@@ -34,18 +34,20 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 ## EXPERIENCIA Y PROYECTOS
 
-  
-
 ### Chat Group
+![Captura de Pantalla ](https://github.com/MarckWeb/concessionaire/blob/main/client/src/img/Imagen1.png)
+
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
-- **Descripción:** Durante mi participación en el proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:
+- **Descripción:** Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. Algunas de las áreas en las que trabajé incluyen:
 
 - **Personalización de Perfiles:** Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados.
 
 - **Diseño de Canales Temáticos:** desarrolle un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
 
 - **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
+- 
+- **Seguridad Avanzada:** Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.
   
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
@@ -59,7 +61,14 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ### Consecionary Website 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
 - **Fecha:** Junio 2023 || Julio 2023
-- **Descripción:** Este proyecto es una plataforma que ofrece una experiencia de usuario excepcional, donde se muestra varios tipos de vehiculos para elegir, acceder a sus perfiles, comentar en el blog y mas. Diseñado como una simulación de concesionario, ofrece una idea de lo que un concesionario podría ofrecer. Los usuarios pueden explorar una amplia gama de opciones de compra y disfrutar de una experiencia de usuario inmersiva y atractiva.
+- **Descripción:**
+Durante el desarrollo de este proyecto Concesionario de vehiculos , desempeñé un papel integral en el diseño y desarrollo de la plataforma. Esta aplicación proporciona a los usuarios una experiencia de usuario excepcional al presentar una variedad de vehículos para elegir, acceso a sus perfiles, la capacidad de comentar en el blog y más. Diseñado como una simulación de concesionario, ofrece una representación digital de lo que un concesionario tradicional podría ofrecer. Como desarrollador, trabajé en diversas áreas para garantizar que la plataforma fuera funcional, atractiva e intuitiva para los usuarios.
+
+- **Diseño y Desarrollo de la Plataforma:** Contribuí al diseño y desarrollo de la plataforma, asegurando que la interfaz de usuario fuera atractiva y fácil de navegar. Me enfoqué en crear una experiencia inmersiva que permitiera a los usuarios explorar una amplia gama de opciones de compra de manera eficiente y satisfactoria.
+
+- **Implementación de Funcionalidades Clave:** Realicé la implementación de funcionalidades clave, como la visualización de perfiles de vehículos, la capacidad de realizar comentarios en el blog y la integración de sistemas de filtrado y búsqueda avanzados para facilitar la navegación y la selección de vehículos.
+
+**Seguridad Avanzada:** Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -68,6 +77,8 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
+  
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## PORTAFOLIO
 En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta la actualidad que reflejan mi experiencia
@@ -81,10 +92,7 @@ En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)--/>
-⭐️ Gracias por visitar mi perfil de github!
+
+⭐️ Gracias por visitar mi perfil de github!, Ahora estoy trabajando en un proyecto de reserva de habitaciones de un hotel con react y typescript y nestJS.
 
 Abierto a nuevas oportunidades de trabajo! 🚀
