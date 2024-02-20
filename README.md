@@ -32,7 +32,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
-## PROYECTOS
+## EXPERIENCIA Y PROYECTOS
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Fecha:** Octubre 2023 || Diciembre 2023
@@ -59,11 +59,11 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
 
-### Experiencia
+## PORTAFOLIO
 En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta la actualidad que reflejan mi experiencia
  >> [![Portafolio](https://img.shields.io/badge/Portafolio-My%20Portfolio-brightgreen?style=flat&logo=portfolio&logoColor=white)](https://david-cics.onrender.com/) 📂
 
-## GitHub Estadisticas
+## GITHUB ESTADISTICAS
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
 
