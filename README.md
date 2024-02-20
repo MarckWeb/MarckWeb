@@ -33,32 +33,15 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
 ## EXPERIENCIA Y PROYECTOS
-# Proyecto Chat Group: Descripción y Tecnologías Utilizadas
 
-## Tabla de Contenidos
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Capturas de Pantalla](#capturas-de-pantalla)
-3. [Instrucciones de Uso](#instrucciones-de-uso)
-4. [Enlaces](#enlaces)
+  Durante mi participación en el proyecto Chat Group, contribuí al desarrollo de una plataforma de interacción social en línea, inspirada en Discord. En este proyecto, mi enfoque se centró en mejorar la experiencia del usuario mediante el diseño y la implementación de diversas características. Algunas de las áreas en las que trabajé incluyen:
 
-## Descripción del Proyecto
-Durante el período de Octubre 2023 a Diciembre 2023, contribuí al desarrollo de una aplicación de Chat Group. Esta aplicación ofrece una experiencia completa de interacción social en línea, inspirada en Discord. Permite a los usuarios comunicarse, personalizar sus propios canales temáticos y expresar su individualidad a través de perfiles personalizados. Facilita la dinámica de conversaciones mediante el intercambio de mensajes y archivos multimedia, así como la inclusión de emoticones personalizados para expresar emociones de manera más vívida.
+- **Personalización de Perfiles:** Implementé funcionalidades que permitían a los usuarios personalizar sus perfiles para expresar su individualidad. Esto incluyó la capacidad de agregar avatares personalizados, biografías y enlaces a redes sociales.
 
-## Capturas de Pantalla
-![Captura de Pantalla 1](ruta/a/captura1.png)
-![Captura de Pantalla 2](ruta/a/captura2.png)
-![Captura de Pantalla 3](ruta/a/captura3.png)
+- **Diseño de Canales Temáticos:** Colaboré en la creación de un sistema que permitía a los usuarios crear y administrar sus propios canales temáticos. Esto implicó trabajar en la lógica de creación de canales, la gestión de permisos y la interfaz de usuario para la navegación entre canales.
 
-## Instrucciones de Uso
-1. **Registro:** Los usuarios pueden registrarse creando una cuenta con su correo electrónico y contraseña.
-2. **Creación de Canales:** Una vez registrados, los usuarios pueden crear canales temáticos según sus intereses.
-3. **Participación en Conversaciones:** Los usuarios pueden unirse a los canales existentes y participar en conversaciones enviando mensajes y archivos multimedia.
-4. **Personalización de Perfiles:** Se permite a los usuarios personalizar sus perfiles con información personal y avatares.
+- **Mejora de la Experiencia de Mensajería:** Contribuí a la implementación de características que mejoraban la experiencia de mensajería, como la capacidad de enviar mensajes enriquecidos con emojis personalizados, la previsualización de enlaces y la carga de archivos multimedia.
 
-## Enlaces
-- **Demo en Vivo:** [¡Haga clic aquí para probar la demostración en vivo!](https://front-gcdr.onrender.com/)
-- **Repositorio del Proyecto:** [Enlace al repositorio en GitHub](https://github.com/usuario/repo)
-- **Feedback y Contacto:** Para cualquier comentario o consulta, no dude en ponerse en contacto con nosotros en [correo electrónico@example.com](mailto:correo electrónico@example.com).
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
 - **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
