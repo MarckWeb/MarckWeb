@@ -57,11 +57,13 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
   [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
+  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Consecionary Website 
 **Periodo de Trabajo:** Junio 2023 || Julio 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
+
 **Descripción:**
 Durante el desarrollo de este proyecto Concesionario de vehiculos , desempeñé un papel integral en el diseño y desarrollo de la plataforma. Esta aplicación proporciona a los usuarios una experiencia de usuario excepcional al presentar una variedad de vehículos para elegir, acceso a sus perfiles, la capacidad de comentar en el blog y más. Diseñado como una simulación de concesionario, ofrece una representación digital de lo que un concesionario tradicional podría ofrecer. Como desarrollador, trabajé en diversas áreas para garantizar que la plataforma fuera funcional, atractiva e intuitiva para los usuarios.
 
@@ -70,7 +72,7 @@ Durante el desarrollo de este proyecto Concesionario de vehiculos , desempeñé 
 - **Implementación de Funcionalidades Clave:** Realicé la implementación de funcionalidades clave, como la visualización de perfiles de vehículos, la capacidad de realizar comentarios en el blog y la integración de sistemas de filtrado y búsqueda avanzados para facilitar la navegación y la selección de vehículos.
 
 - **Seguridad Avanzada:** Implementé medidas de seguridad robustas para proteger la plataforma y los datos de los usuarios. Esto incluyó el uso de tecnologías como JSON Web Tokens (JWT) para la autenticación de usuarios y bcrypt para el hash de contraseñas, garantizando que la información confidencial estuviera protegida contra accesos no autorizados.
-- 
+  
 **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
