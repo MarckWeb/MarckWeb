@@ -33,10 +33,36 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
 ## EXPERIENCIA Y PROYECTOS
+# Proyecto Chat Group: Descripción y Tecnologías Utilizadas
+
+## Tabla de Contenidos
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Capturas de Pantalla](#capturas-de-pantalla)
+3. [Instrucciones de Uso](#instrucciones-de-uso)
+4. [Enlaces](#enlaces)
+
+## Descripción del Proyecto
+Durante el período de Octubre 2023 a Diciembre 2023, contribuí al desarrollo de una aplicación de Chat Group. Esta aplicación ofrece una experiencia completa de interacción social en línea, inspirada en Discord. Permite a los usuarios comunicarse, personalizar sus propios canales temáticos y expresar su individualidad a través de perfiles personalizados. Facilita la dinámica de conversaciones mediante el intercambio de mensajes y archivos multimedia, así como la inclusión de emoticones personalizados para expresar emociones de manera más vívida.
+
+## Capturas de Pantalla
+![Captura de Pantalla 1](ruta/a/captura1.png)
+![Captura de Pantalla 2](ruta/a/captura2.png)
+![Captura de Pantalla 3](ruta/a/captura3.png)
+
+## Instrucciones de Uso
+1. **Registro:** Los usuarios pueden registrarse creando una cuenta con su correo electrónico y contraseña.
+2. **Creación de Canales:** Una vez registrados, los usuarios pueden crear canales temáticos según sus intereses.
+3. **Participación en Conversaciones:** Los usuarios pueden unirse a los canales existentes y participar en conversaciones enviando mensajes y archivos multimedia.
+4. **Personalización de Perfiles:** Se permite a los usuarios personalizar sus perfiles con información personal y avatares.
+
+## Enlaces
+- **Demo en Vivo:** [¡Haga clic aquí para probar la demostración en vivo!](https://front-gcdr.onrender.com/)
+- **Repositorio del Proyecto:** [Enlace al repositorio en GitHub](https://github.com/usuario/repo)
+- **Feedback y Contacto:** Para cualquier comentario o consulta, no dude en ponerse en contacto con nosotros en [correo electrónico@example.com](mailto:correo electrónico@example.com).
 ### Chat Group
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
-- **Fecha:** Octubre 2023 || Diciembre 2023
-- **Descripción:** Esta aplicación Chat Group es una plataforma completa que redefine la interacción social en línea (Clon de Discord). Permite a los usuarios crear y personalizar sus propios canales temáticos, editar perfiles para expresar su individualidad y participar en conversaciones dinámicas. Desde intercambiar mensajes y archivos multimedia hasta expresar emociones con emojis personalizados.
+- **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
+- **Descripción:** Durante este proyecto, contribuí al desarrollo de una aplicación de Chat Group que ofrece una experiencia completa de interacción social en línea, inspirada en Discord. Mi labor consistió en crear una plataforma que permitiera a los usuarios no solo comunicarse, sino también personalizar sus propios canales temáticos y expresar su individualidad a través de perfiles personalizados. Además, facilité la dinámica de conversaciones mediante el intercambio de mensajes y archivos multimedia, así como la inclusión de emoticones personalizados para expresar emociones de manera más vívida.
 - **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
