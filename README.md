@@ -1,5 +1,5 @@
 ## BIENVENIDO A MI CV 2.0👋
-  ![Wallpaper](https://github.com/MarckWeb/concessionaire/blob/main/client/public/2.png)
+  ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png)
   
 ## ACERCA DE MI
 ¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web Junior full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
