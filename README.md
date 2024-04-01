@@ -33,6 +33,14 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
+![Build Status](https://travis-ci.org/usuario/repo.svg?branch=master)
+![Coverage Status](https://coveralls.io/repos/github/usuario/repo/badge.svg?branch=master)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/repo)
+![GitHub](https://img.shields.io/github/license/usuario/repo)
+![David](https://img.shields.io/david/usuario/repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repo)
+
+
 
 ## EXPERIENCIA Y PROYECTOS
 
