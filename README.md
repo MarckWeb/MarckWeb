@@ -1,4 +1,4 @@
-## BIENVENIDO A MI CV 2.0👋
+## BIENVENIDO A MI PERFIL👋
   ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png)
   
 ## ACERCA DE MI
@@ -88,6 +88,6 @@ En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
-⭐️ Gracias por visitar mi perfil de github!, Ahora estoy trabajando en un proyecto de reserva de habitaciones de un hotel con react y typescript y nestJS.
+⭐️ Gracias por visitar mi perfil de github!.
 
 Abierto a nuevas oportunidades de trabajo! 🚀
