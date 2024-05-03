@@ -43,12 +43,10 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 **Periodo de Trabajo:** Enero 2024 || marzo 2024
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://gran-hotel.onrender.com/) 🌐
-<div align="center" style="display:flex">
-  <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png" alt="imagen proyecto" width="400">
+<div align="center" style="display:flex; justify-content:center; align-items:center;">
+  <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
   <p>**Descripción:** GranHotel Reservas de Habitaciones es un sistema de gestión de reservas diseñado para un hotel de lujo. Esta aplicación permite a los clientes realizar reservas de habitaciones de forma rápida y sencilla, ofreciendo una interfaz intuitiva y amigable. Los usuarios pueden buscar disponibilidad de habitaciones según sus fechas de viaje, preferencias de habitación y número de huéspedes.</p>
 </div>
-
-**Descripción:** GranHotel Reservas de Habitaciones es un sistema de gestión de reservas diseñado para un hotel de lujo. Esta aplicación permite a los clientes realizar reservas de habitaciones de forma rápida y sencilla, ofreciendo una interfaz intuitiva y amigable. Los usuarios pueden buscar disponibilidad de habitaciones según sus fechas de viaje, preferencias de habitación y número de huéspedes.
 
 **Herramientas utilizadas:**
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
