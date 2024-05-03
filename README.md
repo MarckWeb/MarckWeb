@@ -39,7 +39,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 ## EXPERIENCIA Y PROYECTOS
 
-### Chat Group
+### Clon Slack (Grupos de chat)
 **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
@@ -56,7 +56,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Consecionary Website 
+### Pagína Web Concesionario 
 **Periodo de Trabajo:** Junio 2023 || Julio 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
