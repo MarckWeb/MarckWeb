@@ -34,6 +34,7 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
@@ -42,18 +43,21 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 **Periodo de Trabajo:** Enero 2024 || marzo 2024
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://gran-hotel.onrender.com/) 🌐
->> ![imagen proyecto](https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png)
+<img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png" alt="imagen proyecto" width="300">
 
 **Descripción:** GranHotel Reservas de Habitaciones es un sistema de gestión de reservas diseñado para un hotel de lujo. Esta aplicación permite a los clientes realizar reservas de habitaciones de forma rápida y sencilla, ofreciendo una interfaz intuitiva y amigable. Los usuarios pueden buscar disponibilidad de habitaciones según sus fechas de viaje, preferencias de habitación y número de huéspedes.
 
 **Herramientas utilizadas:**
-  ![Vite + React + Typescript](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
-  [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
-  [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
