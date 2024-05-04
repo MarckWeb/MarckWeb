@@ -80,9 +80,12 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Pagína Web Concesionario 
+
 **Periodo de Trabajo:** Junio 2023 || Julio 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/) 🌐
+
+ <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1700926816/group/xhu1w5eklifnrqjvjg07.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
 
 **Descripción:**
 Durante el desarrollo de este proyecto Concesionario de vehiculos , desempeñé un papel integral en el diseño y desarrollo de la plataforma. Esta aplicación proporciona a los usuarios una experiencia de usuario excepcional al presentar una variedad de vehículos para elegir, acceso a sus perfiles, la capacidad de comentar en el blog y más. Diseñado como una simulación de concesionario, ofrece una representación digital de lo que un concesionario tradicional podría ofrecer. Como desarrollador, trabajé en diversas áreas para garantizar que la plataforma fuera funcional, atractiva e intuitiva para los usuarios.
