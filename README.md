@@ -63,7 +63,6 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Clon Slack (Grupos de chat)
-https://res.cloudinary.com/datu6oki6/image/upload/v1714801455/group_zohbnu.png
 **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
