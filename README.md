@@ -63,9 +63,12 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Clon Slack (Grupos de chat)
+https://res.cloudinary.com/datu6oki6/image/upload/v1714801455/group_zohbnu.png
 **Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 
 >> [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/) 🌐
+
+<img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714801455/group_zohbnu.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
 
 **Descripción:** Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. 
 
