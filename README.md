@@ -2,8 +2,8 @@
   ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png)
   
 ## ACERCA DE MI
-¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web Junior full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
-aplicar mis conocimientos y habilidades en entornos grupales reales. Aspiro a expandir mis conocimientos en tecnologías y lenguajes de programación que
+¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
+aplicar mis conocimientos y habilidades. Aspiro a expandir mis conocimientos en tecnologías y lenguajes de programación que
 contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran envergadura.🖥️🌐🚀✨.
 - 💻 Me encanta solucionar problemas de codigo.
 - 🌐 Me encanta sumergirme en desafíos intensos mientras desarrollo, ya que encuentro una profunda satisfacción en superar obstáculos complejos y resolver problemas técnicos.
@@ -35,6 +35,12 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
+
+## HERRAMIENTAS Y TECNOLOGIAS DE CIBERSEGURIDAD
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
