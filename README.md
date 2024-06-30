@@ -116,4 +116,4 @@ En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta
 
 ⭐️ Gracias por visitar mi perfil de github!.
 
-Abierto a nuevas oportunidades de trabajo! 🚀
+Estoy abierto a nuevas oportunidades de trabajo! 🚀
