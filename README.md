@@ -36,7 +36,6 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
 
-## HERRAMIENTAS Y TECNOLOGIAS DE CIBERSEGURIDAD
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
