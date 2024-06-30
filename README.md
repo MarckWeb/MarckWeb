@@ -50,8 +50,6 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://gran-hotel.onrender.com/)
 
   <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
-  
-**Descripción:** GranHotel Reservas de Habitaciones es un sistema de gestión de reservas diseñado para un hotel de lujo. Esta aplicación permite a los clientes realizar reservas de habitaciones de forma rápida y sencilla, ofreciendo una interfaz intuitiva y amigable. Los usuarios pueden buscar disponibilidad de habitaciones según sus fechas de viaje, preferencias de habitación y número de huéspedes.
 
 **Herramientas utilizadas:**
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -73,8 +71,6 @@ contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/)
 
 <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714801455/group_zohbnu.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
-
-**Descripción:** Durante el desarrollo de este proyecto Chat Group, asumí un rol activo en el desarrollo y la implementación de diversas características clave, inspirada en Discord. En este proyecto, me enfoqué en diseñar y ejecutar soluciones que mejoraran la experiencia del usuario y añadieran funcionalidades significativas a la plataforma. 
 
 **Herramientas utilizadas:**
   ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
