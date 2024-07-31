@@ -1,14 +1,6 @@
 ## BIENVENIDO A MI PERFIL👋
   ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png)
   
-## ACERCA DE MI
-¡Hola 👋! Soy David 👨‍💻, un apasionado Desarrollador Web full stack 🖥. Mi objetivo es seguir avanzando como desarrollador y
-aplicar mis conocimientos y habilidades. Aspiro a expandir mis conocimientos en tecnologías y lenguajes de programación que
-contribuyan a construir proyectos tecnológicos innovadores, sólidos y de gran envergadura.🖥️🌐🚀✨.
-- 💻 Me encanta solucionar problemas de codigo.
-- 🌐 Me encanta sumergirme en desafíos intensos mientras desarrollo, ya que encuentro una profunda satisfacción en superar obstáculos complejos y resolver problemas técnicos.
-- 🚀 Actualmente trabajando en proyectos propios como desarrollador web.
-- 🧑‍💻 Explorando nuevas posibilidades y siempre interesado en entornos desafiantes donde pueda contribuir y aprender.
 
 ## HABILIDADES Y TECNOLOGIAS
 
