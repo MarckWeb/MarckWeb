@@ -36,7 +36,7 @@
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
-## EXPERIENCIA Y PROYECTOS
+## EXPERIENCIA Y PROYECTOS DAW
 ### GranHotel Reservas
 **Periodo de Trabajo:** Enero 2024 || marzo 2024
 
