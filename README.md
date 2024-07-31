@@ -5,6 +5,30 @@
 
 ## HABILIDADES Y TECNOLOGIAS
 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8D?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-6C0D25?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1C1C1C?style=for-the-badge&logo=hash&logoColor=white)](https://www.openwall.com/john/)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-008B8B?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
+[![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-9B3D09?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
+[![Sqlmap](https://img.shields.io/badge/Sqlmap-1C1C1C?style=for-the-badge&logo=sql&logoColor=white)](http://sqlmap.org/)
+[![Social-Engineer Toolkit](https://img.shields.io/badge/Social--Engineer_Toolkit-4B3F6D?style=for-the-badge&logo=social-engineer-toolkit&logoColor=white)](https://github.com/trustedsec/social-engineer-toolkit)
+[![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=netcat&logoColor=white)](https://netcat.sourceforge.net/)
+[![Ettercap](https://img.shields.io/badge/Ettercap-FFB6C1?style=for-the-badge&logo=ettercap&logoColor=white)](https://www.ettercap-project.org/)
+[![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Empire](https://img.shields.io/badge/Empire-6D6E71?style=for-the-badge&logo=empire&logoColor=white)](https://github.com/EmpireProject/Empire)
+[![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-4B4B4B?style=for-the-badge&logo=cobalt-strike&logoColor=white)](https://www.cobaltstrike.com/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -28,11 +52,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
-
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
