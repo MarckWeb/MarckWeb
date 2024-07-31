@@ -1,7 +1,5 @@
 ## BIENVENIDO A MI PERFIL👋
 
-[![Hacker](https://img.shields.io/badge/Hacker-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-
 <!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) -->
    ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
  
