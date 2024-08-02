@@ -4,7 +4,7 @@
    ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
  
 
-## HABILIDADES Y TECNOLOGIAS
+## HABILIDADES Y HERRAMIENTAS CIBERSEGURIDAD
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -28,7 +28,7 @@
 [![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-4B4B4B?style=for-the-badge&logo=cobalt-strike&logoColor=white)](https://www.cobaltstrike.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 
-
+## HABILIDADES Y HERRAMIENTAS DAW
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -55,7 +55,7 @@
 
 <!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
 
-## EXPERIENCIA Y PROYECTOS DAW
+## PROYECTOS DAW
 ### GranHotel Reservas
 **Periodo de Trabajo:** Enero 2024 || marzo 2024
 
