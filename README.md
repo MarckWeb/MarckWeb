@@ -58,7 +58,6 @@
 
 ## PROYECTOS 
 ### GranHotel Reservas
-**Periodo de Trabajo:** Enero 2024 || marzo 2024
 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://gran-hotel.onrender.com/)
 
@@ -79,7 +78,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Clon Slack (Grupos de chat)
-**Periodo de Trabajo:** Octubre 2023 || Diciembre 2023
 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/)
 
@@ -96,8 +94,6 @@
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Pagína Web Concesionario 
-
-**Periodo de Trabajo:** Junio 2023 || Julio 2023
 
 [![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/)
 
