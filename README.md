@@ -29,6 +29,7 @@
 [![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-4B4B4B?style=for-the-badge&logo=cobalt-strike&logoColor=white)](https://www.cobaltstrike.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 -->
+<!--
 ## HABILIDADES Y HERRAMIENTAS
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -54,7 +55,7 @@
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
 
-<!--[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)-->
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## PROYECTOS 
 ### GranHotel Reservas
@@ -106,7 +107,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)
   [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
-  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white) -->
   
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
