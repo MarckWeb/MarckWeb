@@ -6,7 +6,7 @@
  ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)-->
   
  <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-    <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Wallpaper" style="max-width: 100%; max-height: 100%;">
+    <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Wallpaper" style="max-width: 100%; max-height: 100%; margin: auto;">
 </div>
 
 <!--
