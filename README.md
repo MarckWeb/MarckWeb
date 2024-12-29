@@ -1,9 +1,14 @@
 ## BIENVENIDO A MI PERFIL👋
 
-<!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) -->
- ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
+<!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) 
+
+
+ ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)-->
   
- 
+ <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+    <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Wallpaper" style="max-width: 100%; max-height: 100%;">
+</div>
+
 <!--
 ## HABILIDADES Y HERRAMIENTAS CIBERSEGURIDAD
 
