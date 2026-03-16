@@ -17,6 +17,16 @@ Autodidacta en **ciberseguridad ofensiva**, enumeración de vulnerabilidades, OS
 Documentando mi camino en GitHub con write-ups de máquinas CTF, guías prácticas y proyectos reales.  
 Basado en el País Vasco / inspirado en hacking ético accesible.
 
+
+Stack Técnico
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Gobuster-FF69B4?style=for-the-badge&#x26;logo=gnu-bash&#x26;logoColor=white" alt="Gobuster">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3">
 ---
 
 ## BIENVENIDO A MI PERFIL👋
