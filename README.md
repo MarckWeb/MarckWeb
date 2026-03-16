@@ -49,6 +49,58 @@ Documentando mi camino en GitHub con write-ups de máquinas CTF, y guías práct
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+---
+
+# ⚙️ Enfoque Central
+
+Mi prioridad es el **aprendizaje constante** y la **creación de material educativo de calidad**.
+
+Mi trabajo se centra en:
+
+* Ciberseguridad
+* Creación de scripts
+* Análisis de vulnerabilidades
+
+---
+
+# 💾 Stack de Programación
+
+Me enfoco en lenguajes de **scripting** para desarrollar herramientas de seguridad, automatización y personalización. También disfruto creando páginas web.
+
+**Tecnologías:**
+
+* Shell Script
+* PowerShell
+* Python
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+# 🛠️ Herramientas y Entornos Clave
+
+**Arch Linux** es mi plataforma principal de desarrollo, optimizada para tareas de ciberseguridad junto con el repositorio de **BlackArch**.
+
+**Herramientas y entornos:**
+
+* Arch Linux
+* Vulnerability Analysis
+* Git
+
+---
+
+# 🔗 Redes Sociales
+
+Documento mis avances y aprendizajes:
+
+| Plataforma | Contenido                                                 |
+| ---------- | --------------------------------------------------------- |
+| YouTube    | Contenido didáctico sobre Ciberseguridad y sistemas Linux |
+| Threads    | Pensamientos rápidos, documentación constante y opiniones |
+
+
+
 Conecta conmigo
 
 
