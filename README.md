@@ -49,11 +49,9 @@ Stack Técnico
 [![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=netcat&logoColor=white)](https://netcat.sourceforge.net/)
 [![Ettercap](https://img.shields.io/badge/Ettercap-FFB6C1?style=for-the-badge&logo=ettercap&logoColor=white)](https://www.ettercap-project.org/)
 [![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
-[![Empire](https://img.shields.io/badge/Empire-6D6E71?style=for-the-badge&logo=empire&logoColor=white)](https://github.com/EmpireProject/Empire)
-[![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-4B4B4B?style=for-the-badge&logo=cobalt-strike&logoColor=white)](https://www.cobaltstrike.com/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 
-<!--
+
+
 ## HABILIDADES Y HERRAMIENTAS
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
