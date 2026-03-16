@@ -17,7 +17,8 @@ Autodidacta en **ciberseguridad ofensiva**, enumeración de vulnerabilidades, OS
 Documentando mi camino en GitHub con write-ups de máquinas CTF, guías prácticas y proyectos reales.  
 Basado en el País Vasco / inspirado en hacking ético accesible.
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/logo-marckweb.png" alt="Logo Cyber" width="180">
+<!-- <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/logo-marckweb.png" alt="Logo Cyber" width="180"> -->
+
 ## Stack Técnico
 <!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
 <img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
@@ -29,7 +30,7 @@ Basado en el País Vasco / inspirado en hacking ético accesible.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3">
 --- -->
 
-#### HABILIDADES Y HERRAMIENTAS CIBERSEGURIDAD
+#### HABILIDADES Y HERRAMIENTAS
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-6C0D25?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
@@ -38,9 +39,6 @@ Basado en el País Vasco / inspirado en hacking ético accesible.
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
 
-
-
-#### HABILIDADES Y HERRAMIENTAS
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
