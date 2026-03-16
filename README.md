@@ -16,18 +16,12 @@ Junior Pentester | Ethical Hacking | CTF Labs | Web Dev
 Autodidacta en **ciberseguridad ofensiva**, enumeración de vulnerabilidades, OSINT, pentesting web y desarrollo de herramientas.  
 Documentando mi camino en GitHub con write-ups de máquinas CTF, y guías prácticas.  
 
-<!-- <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/logo-marckweb.png" alt="Logo Cyber" width="180"> -->
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/logo-marckweb.png" alt="Logo Cyber" width="180">
 
+> 💼 Visita el mi sitio : Sitio Webmarckweb.com
+> 
 ## Stack Técnico
-<!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
-<img src="https://img.shields.io/badge/Gobuster-FF69B4?style=for-the-badge&#x26;logo=gnu-bash&#x26;logoColor=white" alt="Gobuster">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3">
---- -->
+
 
 #### HABILIDADES Y HERRAMIENTAS
 
@@ -53,73 +47,64 @@ Documentando mi camino en GitHub con write-ups de máquinas CTF, y guías práct
 
 # ⚙️ Enfoque Central
 
-Mi prioridad es el **aprendizaje constante** y la **creación de material educativo de calidad**.
+Mi prioridad es el **aprendizaje constante** dedicarme a la ciberseguridad en especial al area de RED TEAM y tambien en la **creación de material educativo** sobre el pentest a medida que voy aprendiendo y lo comparto.
 
-Mi trabajo se centra en:
+Mi trabajo se centra pro ahora en:
 
-* Ciberseguridad
-* Creación de scripts
 * Análisis de vulnerabilidades
+* CTF Player
+* Creación de scripts (modo aprendizaje con python)
 
 ---
 
-# 💾 Stack de Programación
+# 💾 Stack de Programación y scripting
+estoy practicando **python para scripting** para desarrollar herramientas de seguridad, automatización y personalización. y hacking con python
 
-Me enfoco en lenguajes de **scripting** para desarrollar herramientas de seguridad, automatización y personalización. También disfruto creando páginas web.
+Tambien disfruto con lenguajes de  **Programacion** realizando paginas web chulas ya sea para laboratorios y blog personales o pymes y personas individuales
 
 **Tecnologías:**
-
-* Shell Script
-* PowerShell
 * Python
 * HTML5
 * CSS3
 * JavaScript
+* TypeScrip
+* MongoDB
+* MySQL
 
+** Algunos frameworks **
+ * React
+ * Next.js
+ * Nest.js
+ * Express
+ * TailwindCSS
 ---
 
-# 🛠️ Herramientas y Entornos Clave
 
-**Arch Linux** es mi plataforma principal de desarrollo, optimizada para tareas de ciberseguridad junto con el repositorio de **BlackArch**.
-
-**Herramientas y entornos:**
-
-* Arch Linux
-* Vulnerability Analysis
-* Git
-
----
 
 # 🔗 Redes Sociales
 
-Documento mis avances y aprendizajes:
+Intento interacturar y estar ahi casi un vez por dia
 
 | Plataforma | Contenido                                                 |
 | ---------- | --------------------------------------------------------- |
-| YouTube    | Contenido didáctico sobre Ciberseguridad y sistemas Linux |
-| Threads    | Pensamientos rápidos, documentación constante y opiniones |
+|Linkedin   | Contenido didáctico sobre Ciberseguridad y sistemas Linux |
+|GitHub     | Pensamientos rápidos, documentación constante y opiniones |
 
+
+# 🔗 Plataformas donde practico pentest
+
+Documento mis avances y aprendizajes:
+| Plataforma | Contenido                                                 |
+| ---------- | --------------------------------------------------------- |
+|Thehackerlabs  | mucha smaquina paar practicar ademas de un section vault|
+|tryhackme    | contendido de red team y ctfs  |
+|Docker   | maquinas en docker  |
+|Overthewire     | Pensamientos rápidos, documentación constante y opiniones |
 
 
 Conecta conmigo
 
 
-PlataformaEnlace / Contenido🌐 Sitio Webmarckweb.com💼 LinkedInlinkedin.com/in/TU_LINKEDIN📝 WriteUpsgithub.com/TU_USUARIO/WriteUps-Pentest📧 Contactodavid@marckweb.com (o tu email)
-
-
-¡Gracias por visitar!
-Si te sirve el contenido → ⭐ este repo o sígueme para más guías y write-ups.
-¡Hackea éticamente! 🔒
-<!-- 
-## GITHUB ESTADISTICAS
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
-
-## CONTACTAME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marca)
-
-
-⭐️ Gracias por visitar mi perfil de github!.
--->
+PlataformaEnlace / Contenido🌐  LinkedInlinkedin.com/in/TU_LINKEDIN📝 WriteUpsgithub.com/TU_USUARIO/WriteUps-Pentest📧 Contactodavid@marckweb.com (o tu email)
 
 
