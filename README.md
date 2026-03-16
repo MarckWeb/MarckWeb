@@ -2,8 +2,10 @@
 
 <!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) 
 
-
  ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)-->
+
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=dracula&bg_color=0D1117&color=FF69B4&line=FF69B4&area=true&hide_border=true)
+ 
   
 <table style="width:100%; height: 100vh;">
   <tr>
