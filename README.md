@@ -29,25 +29,6 @@ Stack Técnico
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3">
 ---
 
-## BIENVENIDO A MI PERFIL👋
-
-<!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) 
-
- ![Wallpaper]( https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)-->
-
-![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=MarckWeb&theme=dracula&bg_color=0D1117&color=FF69B4&line=FF69B4&area=true&hide_border=true)
- 
-  
-<table style="width:100%; height: 100vh;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Wallpaper" style="max-width: 100%; max-height: 100%;">
-    </td>
-  </tr>
-</table>
-
-
-<!--
 ## HABILIDADES Y HERRAMIENTAS CIBERSEGURIDAD
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -71,7 +52,7 @@ Stack Técnico
 [![Empire](https://img.shields.io/badge/Empire-6D6E71?style=for-the-badge&logo=empire&logoColor=white)](https://github.com/EmpireProject/Empire)
 [![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-4B4B4B?style=for-the-badge&logo=cobalt-strike&logoColor=white)](https://www.cobaltstrike.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
--->
+
 <!--
 ## HABILIDADES Y HERRAMIENTAS
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
