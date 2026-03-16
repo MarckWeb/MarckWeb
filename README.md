@@ -1,3 +1,24 @@
+<div align="center">
+
+# 🛡️ **TU_ALIAS_O_NOMBRE** - Hacking Ético & Desarrollo Web
+
+**Ciberseguridad al alcance de todos**  
+Junior Pentester | Ethical Hacking | CTF Labs | Web Dev
+
+</div>
+
+---
+
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=0d1117&color=79c0ff&line=58a6ff&area=true&hide_border=true)
+
+> “La seguridad no es un producto, es un proceso. Aprende, prueba, protege.”
+
+Autodidacta en **ciberseguridad ofensiva**, enumeración de vulnerabilidades, OSINT, pentesting web y desarrollo de herramientas.  
+Documentando mi camino en GitHub con write-ups de máquinas CTF, guías prácticas y proyectos reales.  
+Basado en el País Vasco / inspirado en hacking ético accesible.
+
+---
+
 ## BIENVENIDO A MI PERFIL👋
 
 <!-- ![Wallpaper](https://res.cloudinary.com/datu6oki6/image/upload/v1708518526/profileCar/2_xrmxks.png) 
