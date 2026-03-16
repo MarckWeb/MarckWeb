@@ -9,7 +9,7 @@ Junior Pentester | Ethical Hacking | CTF Labs | Web Dev
 
 ---
 
-![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=0d1117&color=79c0ff&line=58a6ff&area=true&hide_border=true)
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=MarckWeb&theme=react-dark&bg_color=0d1117&color=79c0ff&line=58a6ff&area=true&hide_border=true)
 
 > “La seguridad no es un producto, es un proceso. Aprende, prueba, protege.”
 
