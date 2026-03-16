@@ -14,13 +14,9 @@ Junior Pentester | Ethical Hacking | CTF Player | Web Developer
 
 > "Aprender seguridad significa romper cosas, entender por qué se rompen y aprender a protegerlas."
 
-<div align="center">
-
 Tras completar una formación en **ciberseguridad ofensiva**, continué profundizando en este campo de forma **autodidacta**, centrando mi aprendizaje en **pentesting, enumeración de vulnerabilidades, OSINT y desarrollo de herramientas**..
 
 Actualmente documento mi proceso de aprendizaje en GitHub mediante **write‑ups de máquinas CTF, laboratorios de hacking y guías prácticas**, compartiendo lo que voy aprendiendo en el camino hacia convertirme en **Pentester Junior**.
-
-</div>
 
 ---
 
