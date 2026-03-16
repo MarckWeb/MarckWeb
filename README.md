@@ -14,8 +14,7 @@ Junior Pentester | Ethical Hacking | CTF Labs | Web Dev
 > “La seguridad no es un producto, es un proceso. Aprende, prueba, protege.”
 
 Autodidacta en **ciberseguridad ofensiva**, enumeración de vulnerabilidades, OSINT, pentesting web y desarrollo de herramientas.  
-Documentando mi camino en GitHub con write-ups de máquinas CTF, guías prácticas y proyectos reales.  
-Basado en el País Vasco / inspirado en hacking ético accesible.
+Documentando mi camino en GitHub con write-ups de máquinas CTF, y guías prácticas.  
 
 <!-- <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/logo-marckweb.png" alt="Logo Cyber" width="180"> -->
 
