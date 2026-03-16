@@ -79,56 +79,6 @@ Stack Técnico
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## PROYECTOS 
-### GranHotel Reservas
-
-[![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://gran-hotel.onrender.com/)
-
-  <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714733604/reserva_qy6hdd.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
-
-**Herramientas utilizadas:**
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-1673E1?style=for-the-badge&logo=render&logoColor=white)
-  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Clon Slack (Grupos de chat)
-
-[![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://front-gcdr.onrender.com/)
-
-<img src="https://res.cloudinary.com/datu6oki6/image/upload/v1714801455/group_zohbnu.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
-
-**Herramientas utilizadas:**
-  ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white)
-  [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
-  [![JawsDB](https://img.shields.io/badge/JawsDB-Cloud%20Database-9cf?style=flat&logo=mysql&logoColor=white)](https://www.jawsdb.com/)
-  
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Pagína Web Concesionario 
-
-[![Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen?style=flat&logoColor=white)](https://client-h3s3.onrender.com/)
-
- <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1700926816/group/xhu1w5eklifnrqjvjg07.png" alt="imagen proyecto" width="400" style="margin-right: 20px;">
-  
-**Herramientas utilizadas:**
-  ![Vite + React](https://img.shields.io/badge/Vite-React-blue?style=flat&logo=vite&logoColor=white&labelColor=333)
-  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-  ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## PORTAFOLIO
 En mi portfolio puedes ver más proyectos de todo tipo desde mi formación hasta la actualidad que reflejan mi experiencia
