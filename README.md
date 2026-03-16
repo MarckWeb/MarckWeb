@@ -22,7 +22,9 @@ Actualmente documento mi proceso de aprendizaje en GitHub mediante **write‑ups
 
 </div>
 
+---
 <img src="https://res.cloudinary.com/datu6oki6/image/upload/v1773678212/MARCKWEB_rbhrtg.png" alt="Logo Cyber">
+---
 
 > 💼 **Visita mi sitio web:** marckweb.com
 
