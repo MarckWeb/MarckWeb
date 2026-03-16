@@ -19,7 +19,7 @@ Basado en el País Vasco / inspirado en hacking ético accesible.
 
 
 Stack Técnico
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
+<!-- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&#x26;logo=kali-linux&#x26;logoColor=white" alt="Kali Linux">
 <img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&#x26;logo=nmap&#x26;logoColor=white" alt="Nmap">
 <img src="https://img.shields.io/badge/Gobuster-FF69B4?style=for-the-badge&#x26;logo=gnu-bash&#x26;logoColor=white" alt="Gobuster">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white" alt="TypeScript">
@@ -27,7 +27,7 @@ Stack Técnico
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3">
----
+--- -->
 
 ## HABILIDADES Y HERRAMIENTAS CIBERSEGURIDAD
 
@@ -127,10 +127,7 @@ Stack Técnico
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-Database-brightgreen?style=flat&logo=mongodb&logoColor=white)
-  [![Render](https://img.shields.io/badge/Render-Deployed-brightgreen?style=flat&logo=render&logoColor=white)](https://render.com/)
-  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-60D5F9?style=flat&logo=cloudinary&logoColor=white) -->
-  
+
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## PORTAFOLIO
