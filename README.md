@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Red Team](https://img.shields.io/badge/Red%20Team-Red?style=for-the-badge&logo=shield&logoColor=white)]() **MARCK WEB — Ethical Hacking & Web Development** 
+# 🔴🛡️ **MARCK WEB — Ethical Hacking & Web Development** 
 
 **Ciberseguridad al alcance de todos**
 
