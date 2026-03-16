@@ -3,7 +3,9 @@
 # 🔴🛡️ **MARCK WEB — Ethical Hacking & Web Development** 
 
 **Ciberseguridad al alcance de todos**
+
 Junior Pentester | Ethical Hacking | CTF Player | Web Developer
+
 </div>
 
 ---
@@ -20,7 +22,7 @@ Actualmente documento mi proceso de aprendizaje en GitHub mediante **write‑ups
 
 </div>
 
-<img src="https://res.cloudinary.com/datu6oki6/image/upload/v1773678212/MARCKWEB_rbhrtg.png" alt="Logo Cyber" width="180">
+<img src="https://res.cloudinary.com/datu6oki6/image/upload/v1773678212/MARCKWEB_rbhrtg.png" alt="Logo Cyber">
 
 > 💼 **Visita mi sitio web:** marckweb.com
 
