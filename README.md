@@ -53,7 +53,7 @@ Stack Técnico
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+<!-- 
 ## GITHUB ESTADISTICAS
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarckWeb&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckWeb&layout=compact&theme=radical)
@@ -63,4 +63,6 @@ Stack Técnico
 
 
 ⭐️ Gracias por visitar mi perfil de github!.
+-->
+
 
