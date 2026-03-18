@@ -52,7 +52,7 @@ Actualmente mi enfoque principal está en:
 
 * 🔎 Análisis y enumeración de vulnerabilidades
 * 🧠 Resolución de laboratorios y **CTF**
-* 🐍 Desarrollo de **scripts en Python** para automatizar tareas de pentesting
+* 🐍 Desarrollo de **scripts en Python** para automatizar tareas de pentesting (aprendiendo)
 
 ---
 
