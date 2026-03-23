@@ -31,15 +31,27 @@ Actualmente documento mi proceso de aprendizaje en GitHub mediante **write‑ups
 
 ## 🧰 Habilidades y Herramientas de Pentesting
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)](https://www.kali.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-6C0D25?style=for-the-badge\&logo=metasploit\&logoColor=white)](https://www.metasploit.com/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge\&logo=burp-suite\&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-00A300?style=for-the-badge\&logo=nmap\&logoColor=white)](https://nmap.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)](https://www.wireshark.org/)
-[![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge\&logo=tenable\&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-6C0D25?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-4A3D37?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-222222?style=for-the-badge&logo=airplayaudio&logoColor=white)](https://www.aircrack-ng.org/)
+[![Hydra](https://img.shields.io/badge/Hydra-8A2BE2?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.openwall.com/john/)
+[![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlmap.org/)
+[![Gobuster](https://img.shields.io/badge/Gobuster-FF6F00?style=for-the-badge&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
+[![Dirb](https://img.shields.io/badge/Dirb-444444?style=for-the-badge&logo=apache&logoColor=white)](http://dirb.sourceforge.net/)
 
 [![Enum4linux](https://img.shields.io/badge/Enum4linux-696969?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/CiscoCXSecurity/enum4linux)
 [![SMBMap](https://img.shields.io/badge/SMBMap-20B2AA?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShawnDEvans/smbmap)
+
+[![PEASS-ng](https://img.shields.io/badge/PEASS--ng-FF1493?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
+[![LinPEAS](https://img.shields.io/badge/LinPEAS-32CD32?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
+[![WinPEAS](https://img.shields.io/badge/WinPEAS-1E90FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/carlospolop/PEASS-ng)
+
 Además del uso de herramientas, practico **pensamiento crítico aplicado al pentesting**: analizar por dónde empezar una auditoría, identificar servicios interesantes, priorizar vectores de ataque y comprender dónde podría existir una vulnerabilidad.
 
 ---
