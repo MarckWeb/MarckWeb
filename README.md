@@ -38,6 +38,8 @@ Actualmente documento mi proceso de aprendizaje en GitHub mediante **write‑ups
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)](https://www.wireshark.org/)
 [![Nessus](https://img.shields.io/badge/Nessus-1F77B4?style=for-the-badge\&logo=tenable\&logoColor=white)](https://www.tenable.com/products/nessus)
 
+[![Enum4linux](https://img.shields.io/badge/Enum4linux-696969?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/CiscoCXSecurity/enum4linux)
+[![SMBMap](https://img.shields.io/badge/SMBMap-20B2AA?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShawnDEvans/smbmap)
 Además del uso de herramientas, practico **pensamiento crítico aplicado al pentesting**: analizar por dónde empezar una auditoría, identificar servicios interesantes, priorizar vectores de ataque y comprender dónde podría existir una vulnerabilidad.
 
 ---
