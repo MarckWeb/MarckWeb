@@ -2,8 +2,6 @@
 
 # 🔴🛡️ **M4RCK W3B — Ethical Hacking & Web Development** 
 
-**Ciberseguridad al alcance de todos**
-
 </div>
 
 ---
