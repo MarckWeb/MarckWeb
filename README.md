@@ -4,15 +4,13 @@
 
 **Ciberseguridad al alcance de todos**
 
-Junior Pentester | Ethical Hacking | CTF Player | Web Developer
-
 </div>
 
 ---
 
 ![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=MarckWeb\&theme=react-dark\&bg_color=0d1117\&color=79c0ff\&line=58a6ff\&area=true\&hide_border=true)
 
-> "Aprender seguridad significa romper cosas, entender por qué se rompen y aprender a protegerlas."
+> "La seguridad no es paranoia. Es concienciar, es prevenir, es asegurar."
 
 Tras completar una formación en **ciberseguridad ofensiva**, continué profundizando en este campo de forma **autodidacta**, centrando mi aprendizaje en **pentesting, enumeración de vulnerabilidades, OSINT y desarrollo de herramientas**..
 
