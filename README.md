@@ -137,4 +137,4 @@ En los laboratorios intento seguir una metodología similar a la utilizada en en
 Documentar cada paso me ayuda a **consolidar conocimientos y crear guías útiles para otros estudiantes de ciberseguridad**.
 
 ---
-Eso fue todo amigos !!!. Gracias por visitar mi perfil 👨‍💻
+Eso fue todo amigos !!!. Gracias por visitar mi perfil y feliz hacking! 👨‍💻🕵️‍♂️🔥
